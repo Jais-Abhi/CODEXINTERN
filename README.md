@@ -8,7 +8,8 @@ Each project is production-ready, responsive, and deployed on Vercel.
 ## 🚀 Projects
 
 ### 1️⃣ **Text Translator**
-Translate text between multiple languages instantly with a smooth UI and fast API integration.
+Translate text instantly between multiple languages using the  
+**Google Translate API (via RapidAPI)**.
 
 🔗 **Live Demo:**  
 https://text-translator-wine.vercel.app/
@@ -33,8 +34,5 @@ Using roact-router-dom , create client side routing
 
 🔗 **Live Demo:**  
 https://dishora.vercel.app/
-
----
-
 
 ---

@@ -29,8 +29,7 @@ https://password-generator-flame-seven-38.vercel.app/
 ---
 
 ### 3️⃣ **Dishora (Dish Recommendation App)**
-A fun dish suggestion app that shows random unique meals with images, names, and details.
-Using roact-router-dom , create client side routing
+A fun dish suggestion app that shows random unique meals with images, names, and details.**Using roact-router-dom , create client side routing**
 
 🔗 **Live Demo:**  
 https://dishora.vercel.app/
